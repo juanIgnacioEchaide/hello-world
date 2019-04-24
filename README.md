@@ -18,3 +18,6 @@ Se solicita un algoritmo que tomando dos valores pertenecientes al conjunto num�
 <strong>5</strong> Operación suma</br>
 <strong>6</strong> Mostrar resultado suma</br>
 <strong>5</strong> FIN
+
+### Diagrama Nassi-Schneiderman de la solución:
+![nassi schneiderman](https://user-images.githubusercontent.com/43832189/56675303-2a277c80-6692-11e9-99a5-43f1a159ddfc.jpg)
