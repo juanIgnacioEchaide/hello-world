@@ -8,6 +8,6 @@ Se solicita un algoritmo que tomando dos valores pertenecientes al conjunto num�
 
 ## Dominio de la solución
 
-La solución adoptada es la siguiente:
+### La solución adoptada es la siguiente:
 
 <strong>1</strong> Solicitar el primer valor (<cursive>a</cursive>)
