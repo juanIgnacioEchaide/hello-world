@@ -11,10 +11,10 @@ Se solicita un algoritmo que tomando dos valores pertenecientes al conjunto num�
 ## Dominio de la solución
 ### La solución adoptada es la siguiente:
 
-<strong>1</strong> Solicitar el primer valor (<cursive>a</cursive>)
-<strong>2</strong> Guardar <cursive>a</cursive> en memoria 
-<strong>3</strong> Solicitar el segundo valor (<cursive>b</cursive>)
-<strong>4</strong> Guardar <cursive>b</cursive> en memoria 
-<strong>5</strong> Operación suma
-<strong>6</strong> Mostrar resultado suma
+<strong>1</strong> Solicitar el primer valor (<cursive>a</cursive>) </br>
+<strong>2</strong> Guardar <cursive>a</cursive> en memoria </br>
+<strong>3</strong> Solicitar el segundo valor (<cursive>b</cursive>)</br>
+<strong>4</strong> Guardar <cursive>b</cursive> en memoria </br>
+<strong>5</strong> Operación suma</br>
+<strong>6</strong> Mostrar resultado suma</br>
 <strong>5</strong> FIN
