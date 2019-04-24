@@ -10,3 +10,4 @@ Se solicita un algoritmo que tomando dos valores pertenecientes al conjunto num√
 
 La soluci√≥n adoptada es la siguiente:
 
+<strong>1<strong>
